@@ -1,0 +1,242 @@
+log
+log
+{'closewindowcheck': '1\n', 'language': 'en\n', 'mirror': ' 1\n', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+{'closewindowcheck': '1', 'language': 'en', 'mirror': ' 1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+{'closewindowcheck': '1', 'mirror': ' 1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+{'closewindowcheck': '1', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+{'closewindowcheck': '1', 'language': 'cn', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+{'closewindowcheck': '1', 'language': 'cn', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-06-14 21:09:33.516934 plugins list on refreshing
+2021-06-14 21:09:35.437821 plugins list refreshed
+{'closewindowcheck': '1', 'language': 'cn', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-06-15 19:57:40.436958 plugins list on refreshing
+2021-06-15 19:57:42.894259 plugins list refreshed
+{'closewindowcheck': '1', 'language': 'cn', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-06-15 19:57:52.213794 plugins list on refreshing
+2021-06-15 19:57:54.304791 plugins list refreshed
+{'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+
+
+{'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+
+
+Hello
+
+
+2021-08-02 16:34:47.957712 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:34:47.958714 
+
+2021-08-02 16:34:47.959711 Hello
+2021-08-02 16:34:47.959711 
+
+2021-08-02 16:35:36.813251 {'closewindowcheck': '1', 'language': 'cn', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:35:36.814249 
+
+2021-08-02 16:35:36.814249 Hello
+2021-08-02 16:35:36.815248 
+
+2021-08-02 16:35:43.646963 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:35:43.646963 
+
+2021-08-02 16:35:43.646963 Hello
+2021-08-02 16:35:43.647955 
+
+2021-08-02 16:36:23.966742 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:36:23.967742 
+
+2021-08-02 16:36:23.967742 Hello
+2021-08-02 16:36:23.967742 
+
+2021-08-02 16:36:45.096266 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:36:45.096266 
+
+2021-08-02 16:36:45.097266 Hello
+2021-08-02 16:36:45.097266 
+
+2021-08-02 16:37:12.652293 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:37:12.652293 
+
+2021-08-02 16:37:12.653293 Hello
+2021-08-02 16:37:12.653293 
+
+2021-08-02 16:40:55.302612 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:40:55.303616 
+
+2021-08-02 16:40:55.304613 Hello
+2021-08-02 16:40:55.305610 
+
+2021-08-02 16:42:25.817305 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:42:25.818304 
+
+2021-08-02 16:42:25.818304 Hello
+2021-08-02 16:42:25.819305 
+
+2021-08-02 16:43:14.755628 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:43:14.755628 
+
+2021-08-02 16:43:14.756627 Hello
+2021-08-02 16:43:14.756627 
+
+2021-08-02 16:43:23.896663 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:43:23.896663 
+
+2021-08-02 16:43:23.896663 Hello
+2021-08-02 16:43:23.896663 
+
+2021-08-02 16:44:01.860504 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:44:01.861504 
+
+2021-08-02 16:44:01.861504 HelloWorld
+2021-08-02 16:44:01.861504 
+
+2021-08-02 16:44:26.838602 {'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:44:26.839601 
+
+2021-08-02 16:44:26.839601 HelloWorld
+2021-08-02 16:44:26.840601 
+
+2021-08-02 16:45:35.745914
+{'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:45:35.745914
+
+
+2021-08-02 16:45:35.746914
+HelloWorld
+2021-08-02 16:45:35.746914
+
+
+2021-08-02 16:49:24.369919
+{'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:49:24.369919
+
+
+2021-08-02 16:49:24.370917
+HelloWorld
+2021-08-02 16:49:24.370917
+
+
+2021-08-02 16:49:27.928259
+exit
+2021-08-02 16:49:27.928259
+
+
+2021-08-02 16:49:31.126746
+exit
+2021-08-02 16:49:31.126746
+
+
+2021-08-02 16:49:47.688449
+{'closewindowcheck': '1', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:49:47.688449
+
+
+2021-08-02 16:49:47.689447
+HelloWorld
+2021-08-02 16:49:47.689447
+
+
+2021-08-02 16:49:48.388352
+exit
+2021-08-02 16:49:48.388352
+
+
+2021-08-02 16:53:18.906751
+{'closewindowcheck': '0', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:53:18.907752
+
+
+2021-08-02 16:53:18.907752
+plugins list on refreshing
+2021-08-02 16:53:18.907752
+
+
+2021-08-02 16:53:22.290221
+exit
+2021-08-02 16:53:22.290221
+
+
+2021-08-02 16:55:49.629887
+{'closewindowcheck': '0', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:55:49.630887
+
+
+2021-08-02 16:55:49.630887
+plugins list on refreshing
+2021-08-02 16:55:49.630887
+
+
+2021-08-02 16:55:54.079642
+exit
+2021-08-02 16:55:54.079642
+
+
+2021-08-02 16:56:53.948431
+{'closewindowcheck': '0', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:56:53.948431
+
+
+2021-08-02 16:56:53.949429
+plugins list on refreshing
+2021-08-02 16:56:53.949429
+
+
+2021-08-02 16:57:13.510409
+{'closewindowcheck': '0', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:57:13.510409
+
+
+2021-08-02 16:57:13.511408
+plugins list on refreshing
+2021-08-02 16:57:13.511408
+
+
+2021-08-02 16:57:15.103460
+plugins list refreshed
+2021-08-02 16:57:15.104458
+
+
+2021-08-02 16:57:15.104458
+HelloWorld
+2021-08-02 16:57:15.104458
+
+
+2021-08-02 16:57:17.039002
+exit
+2021-08-02 16:57:17.039002
+
+
+2021-08-02 16:57:18.444126
+exit
+2021-08-02 16:57:18.445129
+
+
+2021-08-02 16:57:19.188595
+exit
+2021-08-02 16:57:19.188595
+
+
+2021-08-02 16:58:18.971092
+{'closewindowcheck': '0', 'language': 'en', 'mirror': '1', 'font': 'Microsoft YaHei UI', 'runcodecheck': '1'}
+2021-08-02 16:58:18.971092
+
+
+2021-08-02 16:58:18.971092
+plugins list on refreshing
+2021-08-02 16:58:18.971092
+
+
+2021-08-02 16:58:20.585174
+plugins list refreshed
+2021-08-02 16:58:20.585174
+
+
+2021-08-02 16:58:20.586174
+HelloWorld
+2021-08-02 16:58:20.586174
+
+
+2021-08-02 16:58:21.853625
+exit
+2021-08-02 16:58:21.854626
+
+
